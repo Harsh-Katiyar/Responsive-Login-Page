@@ -2,6 +2,10 @@
 
 This project features a modern and responsive login and registration interface built using HTML, CSS, and JavaScript. The design incorporates a clean layout with smooth transitions between the login and registration forms, enhancing user experience.
 
+## Demo
+
+![Responsive Login Page Demo](assets/Responsive-website.gif)
+
 ## Key Features
 
 - **Responsive Design**: Adapts to various screen sizes for optimal viewing on desktops, tablets, and smartphones.
@@ -16,9 +20,7 @@ This project features a modern and responsive login and registration interface b
 - **JavaScript**
 - **Ionicons** for icons
 
-## Live Demo
 
-https://github.com/Harsh-Katiyar/Responsive-Login-Page/blob/main/Responsive-website.gif
 
 ## Installation
 
