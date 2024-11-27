@@ -18,7 +18,7 @@ This project features a modern and responsive login and registration interface b
 
 ## Live Demo
 
-https://github.com/Harsh-Katiyar/Responsive-Login-Page/blob/main/Responsive-website.mp4
+https://github.com/Harsh-Katiyar/Responsive-Login-Page/blob/main/Responsive-website.gif
 
 ## Installation
 
